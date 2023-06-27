@@ -17,8 +17,8 @@ Generate ANSI from a picture. Pixels more than 50% transparent will not be displ
 1. Run your file with the command `./file.sh`.
 
 ## Preview
-![Origin image.](/image.png "Sample image used.")
 ![Output text.](/output.png "Output text produced.")
+![Origin image.](/image.png "Sample image used.")
 
 ## Support me: 
 
